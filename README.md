@@ -1,0 +1,2 @@
+# Excel-Project-Crowdfunding-Analysis-Kickstarter-
+📊 Crowdfunding Analysis (Kickstarter) project using Excel . Processed large datasets, cleaned in Excel, and built a 3-layer interactive dashboard (Metrics Overview, Success Analysis, Report Dashboard) with filters for smooth flow.
